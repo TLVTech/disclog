@@ -2,6 +2,10 @@
 
 `disclog` is an npm package for logging messages to a Discord channel using a webhook. It provides a simple and easy-to-use interface for sending messages of different levels (info, warning, and error) to a Discord channel, with customizable formatting and colors.
 
+## Preview
+<img width="813" alt="image" src="https://user-images.githubusercontent.com/61319421/229336686-a2632373-2249-4166-b32e-ffbef3d0cd1b.png">
+
+
 ## Installation
 
 You can install `disclog` using npm:
