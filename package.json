@@ -1,0 +1,33 @@
+{
+  "name": "disclog",
+  "version": "0.0.3",
+  "description": "A logging package that sends logs to Discord webhooks.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TLVTech/disclog.git"
+  },
+  "keywords": [
+    "discord",
+    "logs",
+    "logging",
+    "webhook"
+  ],
+  "author": "Your Name yoelz@tlvtech.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TLVTech/disclog/issues"
+  },
+  "homepage": "https://github.com/TLVTech/disclog#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
